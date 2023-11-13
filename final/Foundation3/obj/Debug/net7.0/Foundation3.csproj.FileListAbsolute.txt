@@ -1,0 +1,14 @@
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\bin\Debug\net7.0\Foundation3.exe
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\bin\Debug\net7.0\Foundation3.deps.json
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\bin\Debug\net7.0\Foundation3.runtimeconfig.json
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\bin\Debug\net7.0\Foundation3.dll
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\bin\Debug\net7.0\Foundation3.pdb
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\obj\Debug\net7.0\Foundation3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\obj\Debug\net7.0\Foundation3.AssemblyInfoInputs.cache
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\obj\Debug\net7.0\Foundation3.AssemblyInfo.cs
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\obj\Debug\net7.0\Foundation3.csproj.CoreCompileInputs.cache
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\obj\Debug\net7.0\Foundation3.dll
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\obj\Debug\net7.0\refint\Foundation3.dll
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\obj\Debug\net7.0\Foundation3.pdb
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\obj\Debug\net7.0\Foundation3.genruntimeconfig.cache
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation3\obj\Debug\net7.0\ref\Foundation3.dll

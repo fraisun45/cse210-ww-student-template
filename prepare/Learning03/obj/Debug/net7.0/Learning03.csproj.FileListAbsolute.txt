@@ -1,0 +1,14 @@
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\bin\Debug\net7.0\Learning03.exe
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\bin\Debug\net7.0\Learning03.deps.json
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\bin\Debug\net7.0\Learning03.runtimeconfig.json
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\bin\Debug\net7.0\Learning03.dll
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\bin\Debug\net7.0\Learning03.pdb
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\obj\Debug\net7.0\Learning03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\obj\Debug\net7.0\Learning03.AssemblyInfoInputs.cache
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\obj\Debug\net7.0\Learning03.AssemblyInfo.cs
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\obj\Debug\net7.0\Learning03.csproj.CoreCompileInputs.cache
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\obj\Debug\net7.0\Learning03.dll
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\obj\Debug\net7.0\refint\Learning03.dll
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\obj\Debug\net7.0\Learning03.pdb
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\obj\Debug\net7.0\Learning03.genruntimeconfig.cache
+C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning03\obj\Debug\net7.0\ref\Learning03.dll
