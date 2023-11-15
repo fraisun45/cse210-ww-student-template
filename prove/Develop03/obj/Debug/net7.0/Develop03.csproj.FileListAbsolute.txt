@@ -12,3 +12,17 @@ C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prove\Develop03\obj\Debug\net7.0\Develop03.pdb
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prove\Develop03\obj\Debug\net7.0\Develop03.genruntimeconfig.cache
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prove\Develop03\obj\Debug\net7.0\ref\Develop03.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\bin\Debug\net7.0\Develop03.exe
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\bin\Debug\net7.0\Develop03.deps.json
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\bin\Debug\net7.0\Develop03.runtimeconfig.json
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\bin\Debug\net7.0\Develop03.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\bin\Debug\net7.0\Develop03.pdb
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\obj\Debug\net7.0\Develop03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\obj\Debug\net7.0\Develop03.AssemblyInfoInputs.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\obj\Debug\net7.0\Develop03.AssemblyInfo.cs
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\obj\Debug\net7.0\Develop03.csproj.CoreCompileInputs.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\obj\Debug\net7.0\Develop03.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\obj\Debug\net7.0\refint\Develop03.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\obj\Debug\net7.0\Develop03.pdb
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\obj\Debug\net7.0\Develop03.genruntimeconfig.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop03\obj\Debug\net7.0\ref\Develop03.dll

@@ -12,3 +12,17 @@ C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation2\obj\Debug\net7.0\Foundation2.pdb
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation2\obj\Debug\net7.0\Foundation2.genruntimeconfig.cache
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\final\Foundation2\obj\Debug\net7.0\ref\Foundation2.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\bin\Debug\net7.0\Foundation2.exe
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\bin\Debug\net7.0\Foundation2.deps.json
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\bin\Debug\net7.0\Foundation2.runtimeconfig.json
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\bin\Debug\net7.0\Foundation2.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\bin\Debug\net7.0\Foundation2.pdb
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\obj\Debug\net7.0\Foundation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\obj\Debug\net7.0\Foundation2.AssemblyInfoInputs.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\obj\Debug\net7.0\Foundation2.AssemblyInfo.cs
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\obj\Debug\net7.0\Foundation2.csproj.CoreCompileInputs.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\obj\Debug\net7.0\Foundation2.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\obj\Debug\net7.0\refint\Foundation2.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\obj\Debug\net7.0\Foundation2.pdb
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\obj\Debug\net7.0\Foundation2.genruntimeconfig.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\final\Foundation2\obj\Debug\net7.0\ref\Foundation2.dll

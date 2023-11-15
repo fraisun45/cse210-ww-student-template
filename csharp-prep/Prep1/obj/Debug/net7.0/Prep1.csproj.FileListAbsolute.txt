@@ -12,3 +12,17 @@ C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.pdb
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.genruntimeconfig.cache
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\csharp-prep\Prep1\obj\Debug\net7.0\ref\Prep1.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\bin\Debug\net7.0\Prep1.exe
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\bin\Debug\net7.0\Prep1.deps.json
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\bin\Debug\net7.0\Prep1.runtimeconfig.json
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\bin\Debug\net7.0\Prep1.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\bin\Debug\net7.0\Prep1.pdb
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.AssemblyInfoInputs.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.AssemblyInfo.cs
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.csproj.CoreCompileInputs.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\obj\Debug\net7.0\refint\Prep1.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.pdb
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.genruntimeconfig.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\csharp-prep\Prep1\obj\Debug\net7.0\ref\Prep1.dll

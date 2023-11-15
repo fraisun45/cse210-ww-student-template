@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Freed\\.nuget\\packages\\": {}
+    "C:\\Users\\Bastardo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Freed\\Documents\\BYU-Programming with classes\\cse210-ww-student-template\\final\\Foundation3\\Foundation3.csproj",
+      "projectUniqueName": "C:\\Users\\Bastardo\\Documents\\BYU\\cse210-ww-student-template\\final\\Foundation3\\Foundation3.csproj",
       "projectName": "Foundation3",
-      "projectPath": "C:\\Users\\Freed\\Documents\\BYU-Programming with classes\\cse210-ww-student-template\\final\\Foundation3\\Foundation3.csproj",
-      "packagesPath": "C:\\Users\\Freed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Freed\\Documents\\BYU-Programming with classes\\cse210-ww-student-template\\final\\Foundation3\\obj\\",
+      "projectPath": "C:\\Users\\Bastardo\\Documents\\BYU\\cse210-ww-student-template\\final\\Foundation3\\Foundation3.csproj",
+      "packagesPath": "C:\\Users\\Bastardo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bastardo\\Documents\\BYU\\cse210-ww-student-template\\final\\Foundation3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Freed\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Bastardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

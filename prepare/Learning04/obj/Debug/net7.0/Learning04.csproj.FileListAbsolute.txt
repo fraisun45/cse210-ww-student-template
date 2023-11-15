@@ -12,3 +12,17 @@ C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning04\obj\Debug\net7.0\Learning04.pdb
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning04\obj\Debug\net7.0\Learning04.genruntimeconfig.cache
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prepare\Learning04\obj\Debug\net7.0\ref\Learning04.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\bin\Debug\net7.0\Learning04.exe
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\bin\Debug\net7.0\Learning04.deps.json
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\bin\Debug\net7.0\Learning04.runtimeconfig.json
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\bin\Debug\net7.0\Learning04.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\bin\Debug\net7.0\Learning04.pdb
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\obj\Debug\net7.0\Learning04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\obj\Debug\net7.0\Learning04.AssemblyInfoInputs.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\obj\Debug\net7.0\Learning04.AssemblyInfo.cs
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\obj\Debug\net7.0\Learning04.csproj.CoreCompileInputs.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\obj\Debug\net7.0\Learning04.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\obj\Debug\net7.0\refint\Learning04.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\obj\Debug\net7.0\Learning04.pdb
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\obj\Debug\net7.0\Learning04.genruntimeconfig.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prepare\Learning04\obj\Debug\net7.0\ref\Learning04.dll

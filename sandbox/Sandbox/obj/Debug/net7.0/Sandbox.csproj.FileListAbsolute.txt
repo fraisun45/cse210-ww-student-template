@@ -12,3 +12,17 @@ C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\sandbox\Sandbox\obj\Debug\net7.0\Sandbox.pdb
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\sandbox\Sandbox\obj\Debug\net7.0\Sandbox.genruntimeconfig.cache
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\sandbox\Sandbox\obj\Debug\net7.0\ref\Sandbox.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\bin\Debug\net7.0\Sandbox.exe
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\bin\Debug\net7.0\Sandbox.deps.json
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\bin\Debug\net7.0\Sandbox.runtimeconfig.json
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\bin\Debug\net7.0\Sandbox.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\bin\Debug\net7.0\Sandbox.pdb
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\obj\Debug\net7.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\obj\Debug\net7.0\Sandbox.AssemblyInfoInputs.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\obj\Debug\net7.0\Sandbox.AssemblyInfo.cs
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\obj\Debug\net7.0\Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\obj\Debug\net7.0\Sandbox.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\obj\Debug\net7.0\refint\Sandbox.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\obj\Debug\net7.0\Sandbox.pdb
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\obj\Debug\net7.0\Sandbox.genruntimeconfig.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\sandbox\Sandbox\obj\Debug\net7.0\ref\Sandbox.dll

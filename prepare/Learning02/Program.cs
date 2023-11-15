@@ -7,7 +7,7 @@ class Program
 
         Job job1 = new Job();
         //job1._name = "Freisi";
-        job1._jobTitle = "Cybersecurity Analyst";
+        job1._jobTitle = "Cybersecurity-Analyst";
         //job1._jobTitle = "Developer";
         job1._company = "BBG";
         job1._startYear = 2023;

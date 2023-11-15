@@ -12,3 +12,10 @@ C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prove\Develop02\obj\Debug\net7.0\Develop02.pdb
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prove\Develop02\obj\Debug\net7.0\Develop02.genruntimeconfig.cache
 C:\Users\Freed\Documents\BYU-Programming with classes\cse210-ww-student-template\prove\Develop02\obj\Debug\net7.0\ref\Develop02.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop02\obj\Debug\net7.0\Develop02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop02\obj\Debug\net7.0\Develop02.AssemblyInfoInputs.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop02\obj\Debug\net7.0\Develop02.AssemblyInfo.cs
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop02\obj\Debug\net7.0\Develop02.csproj.CoreCompileInputs.cache
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop02\obj\Debug\net7.0\Develop02.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop02\obj\Debug\net7.0\refint\Develop02.dll
+C:\Users\Bastardo\Documents\BYU\cse210-ww-student-template\prove\Develop02\obj\Debug\net7.0\Develop02.pdb
