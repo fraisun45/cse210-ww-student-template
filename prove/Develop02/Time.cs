@@ -1,4 +1,4 @@
-using System;
+/*using System;
 public class Time
 {
    
@@ -6,3 +6,4 @@ public class Time
     public string dateText = theCurrentTime.ToShortDateString();
         
 }
+*/
