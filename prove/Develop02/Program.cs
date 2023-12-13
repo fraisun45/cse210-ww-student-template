@@ -55,7 +55,9 @@ class Program
         Console.Write("Enter your response: ");
         string response = Console.ReadLine();
 
-        Entry newEntry = new Entry(randomPrompt, response);
+        DateTime currentTime = DateTime.Now;
+
+        Entry newEntry = new Entry(randomPrompt, response, currentTime);
         journalEntries.Add(newEntry);
 
         Console.WriteLine("Entry added successfully!");

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bastardo\\Documents\\BYU\\cse210-ww-student-template\\final\\FinalProject\\FinalProject.csproj": {}
+    "C:\\Users\\Freed\\Documents\\BYU-Programming with classes\\cse210-ww-student-template\\final\\FinalProject\\FinalProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bastardo\\Documents\\BYU\\cse210-ww-student-template\\final\\FinalProject\\FinalProject.csproj": {
+    "C:\\Users\\Freed\\Documents\\BYU-Programming with classes\\cse210-ww-student-template\\final\\FinalProject\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bastardo\\Documents\\BYU\\cse210-ww-student-template\\final\\FinalProject\\FinalProject.csproj",
+        "projectUniqueName": "C:\\Users\\Freed\\Documents\\BYU-Programming with classes\\cse210-ww-student-template\\final\\FinalProject\\FinalProject.csproj",
         "projectName": "FinalProject",
-        "projectPath": "C:\\Users\\Bastardo\\Documents\\BYU\\cse210-ww-student-template\\final\\FinalProject\\FinalProject.csproj",
-        "packagesPath": "C:\\Users\\Bastardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bastardo\\Documents\\BYU\\cse210-ww-student-template\\final\\FinalProject\\obj\\",
+        "projectPath": "C:\\Users\\Freed\\Documents\\BYU-Programming with classes\\cse210-ww-student-template\\final\\FinalProject\\FinalProject.csproj",
+        "packagesPath": "C:\\Users\\Freed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Freed\\Documents\\BYU-Programming with classes\\cse210-ww-student-template\\final\\FinalProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bastardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Freed\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
